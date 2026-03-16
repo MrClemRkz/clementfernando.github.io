@@ -1,0 +1,25 @@
+title: Clement Fernando
+description: Bio
+url: "https://clementfernando.github.io"
+baseurl: ""
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-avatar
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-mentions
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jemoji
+  - jekyll-github-metadata
+
+markdown: kramdown
